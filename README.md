@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aonderakkaya
+- 👋 Hi, I’m A. Önder Akkaya
 
-- 👀 I’m interested in C, C++, Python, R, SPSS, data science/analysis/engineering, Power BI
+- 👀 I’m interested in C/C++, Python, R, data science, business intelligence and data visualization
 
-- 🌱 I’m currently pursuing my Statistics degree at Hacettepe University
+- 🌱 I’m currently pursuing my undergraduate statistics degree at Hacettepe University
 
-- 💞️ I’m looking to collaborate on C, C++, R, Python and data science/analysis/enginnering projects
+- 💞️ I’m looking to collaborate on R, Python and data science projects
   
 - 📫 How to reach me:
   https://www.linkedin.com/in/onderakkaya/
