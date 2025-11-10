@@ -2,7 +2,7 @@
 
 - Interested in Data Science, Data Analysis, High Performance Computing and I’m looking to collaborate on projects in these fields.
   
-- How to reach me📧:
+- Contact:
   [LinkedIn](https://www.linkedin.com/in/onderakkaya/) | onderakkayamd@gmail.com
   
 
