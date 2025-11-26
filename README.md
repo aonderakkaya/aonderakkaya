@@ -18,7 +18,7 @@
 <br />
 
 ### The Profile
-I am a statistician and data scientist in training, with a broad focus on data science, data visualization, bussiness intelligence and high-performance computing. Currently working and looking to collaborate in such fields.
+I am a statistician and data scientist in training, with a broad focus on data science, data visualization, bussiness intelligence and high-performance computing. Currently working on and looking to collaborate in such projects.
 
 🏃 **Offline:** I'm a runner (PB 2:17 Half-Marathon), have a keen interest in photography[<a href="https://instagram.com/onder.chroma">
     <img src="https://img.shields.io/badge/onder.chroma-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a>] and arts.
