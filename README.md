@@ -12,7 +12,7 @@
 
 <br />
 
-### The Profile
+### About
 I am a statistician and data scientist in training, with a broad focus on data science, data visualization, business intelligence and high-performance computing. Currently working on and looking to collaborate in such projects.
 
 🏃 **Offline:** I'm a runner (PB 2:17 Half-Marathon), have a keen interest in photography ([@onder.chroma](https://instagram.com/onder.chroma)) and arts.
