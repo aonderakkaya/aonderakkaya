@@ -1,6 +1,6 @@
 <div align="center">
 
-# A. Önder Akkaya
+# Önder Akkaya
 
 **Trainee Actuary | BSc. Statistics @ Hacettepe | Volunteer & Member @ Turkish Statistical Association** 
 
