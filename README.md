@@ -42,7 +42,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
 - SAS (Viya, Studio)
 - Databases: SQL, PostgreSQL, PostGIS
 
-**High-Performance Computing💻** · C/C++ · CUDA · MPS (Metal Performance Shaders) · OpenMP · MPI · Slurm
+**High-Performance Computing💻** · C/C++ · CUDA · [MPS (Metal Performance Shaders)](https://developer.apple.com/documentation/metalperformanceshaders) · OpenMP · MPI · Slurm
 
 **Data Visualization & Business Intelligence📈** · Tableau · Power BI
 
