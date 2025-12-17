@@ -45,7 +45,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
 
 **Data Visualization & Business Intelligence📈** · Tableau · Power BI · QGIS
 
-**Scientific Writing📝** · LaTeX · Markdown · RMarkdown · Quarto
+**Scientific Writing📝** · Quarto · LaTeX · Markdown · RMarkdown
 
 **Workflow & Tools🔧** · Git/GitHub · Jupyter · Google Colab · VS Code
 
