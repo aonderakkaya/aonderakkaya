@@ -23,9 +23,9 @@ I am a statistician and data scientist in training, with a broad focus on data s
 
 ---
 
-### Technical Specifications
+### Technical Specifications 🛠️
 
-**Statistics & Data Science**
+**Statistics & Data Science📊**
 - Python
   - Core: NumPy, SciPy
   - Data: Pandas, Polars
@@ -41,14 +41,14 @@ I am a statistician and data scientist in training, with a broad focus on data s
 - SAS (Viya, Studio)
 - Databases: SQL, PostgreSQL, PostGIS
 
-**High-Performance Computing** · C/C++ · CUDA · MPS (Metal Performance Shaders) · OpenMP · MPI · Slurm
+**High-Performance Computing💻** · C/C++ · CUDA · MPS (Metal Performance Shaders) · OpenMP · MPI · Slurm
 
-**Data Visualization & Business Intelligence** · Tableau · Power BI · QGIS
+**Data Visualization & Business Intelligence📈** · Tableau · Power BI · QGIS
 
-**Scientific Writing** · LaTeX · Markdown · RMarkdown · Quarto
+**Scientific Writing📝** · LaTeX · Markdown · RMarkdown · Quarto
 
-**Workflow & Tools** · Git/GitHub · Jupyter · Google Colab · VS Code
+**Workflow & Tools🔧** · Git/GitHub · Jupyter · Google Colab · VS Code
 
-**Design** · Adobe Creative Cloud · Canva
+**Design🖌️** · Adobe Creative Cloud · Canva
 
 <br />
