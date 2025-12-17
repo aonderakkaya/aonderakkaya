@@ -28,7 +28,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
 **Statistics & Data Science📊**
 - Python
   - Core: NumPy, SciPy
-  - Apple: MLX, CoreMLTools
+  - Apple: [MLX](https://github.com/ml-explore/mlx), [CoreMLTools](https://github.com/apple/coremltools)
   - Data: Pandas, Polars
   - Geospatial: GeoPandas, Rasterio, Rasterstats, Fiona
   - Visualization: Matplotlib, Seaborn, Plotly
