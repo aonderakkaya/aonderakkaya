@@ -43,7 +43,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
 
 **High-Performance Computing💻** · C/C++ · CUDA · MPS (Metal Performance Shaders) · OpenMP · MPI · Slurm
 
-**Data Visualization & Business Intelligence📈** · Tableau · Power BI · QGIS
+**Data Visualization & Business Intelligence📈** · Tableau · Power BI
 
 **Scientific Writing📝** · Quarto · LaTeX · Markdown · RMarkdown
 
