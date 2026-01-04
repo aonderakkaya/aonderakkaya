@@ -18,7 +18,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
 🏃 **Offline:** I'm a runner (PB 2:17 Half-Marathon), have a keen interest in photography ([@onder.chroma](https://instagram.com/onder.chroma)) and arts.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder-akkaya&layout=compact&hide_border=false&cache_seconds=3600" alt="Most used languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder-akkaya&layout=compact&theme=default" alt="Most used languages graph" />
 </div>
 
 ---
