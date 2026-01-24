@@ -26,8 +26,8 @@ I am a statistician and data scientist in training, with a broad focus on data s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
-  <img src="https://img.shields.io/badge/SAS-002060?style=for-the-badge&logo=sas-institute&logoColor=white" alt="SAS" />
-  
+  <img src="https://img.shields.io/badge/SAS-002060?style=for-the-badge&logoColor=white" alt="SAS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/SAS_logo.svg" alt="SAS Logo" width="100" />
 </div>
 
 ---
@@ -49,6 +49,12 @@ I am a statistician and data scientist in training, with a broad focus on data s
   - Visualization: ggplot2, Shiny
   - ML/Stats: caret, tidymodels, xgboost, lme4, nlme
 - SAS (Viya, Studio)
+- Julia
+  - Core: DataFrames.jl, CSV.jl
+  - Statistics: StatsBase.jl, Distributions.jl, HypothesisTests.jl, GLM.jl, DataFramesMeta.jl
+  - Geospatial: ArchGDAL.jl, GeoData.jl
+  - Visualization: Plots.jl, Makie.jl
+  - ML/Stats: MLJ.jl, Flux.jl
 - Databases: SQL, PostgreSQL, PostGIS
 
 **High-Performance Computing💻** · C/C++ · CUDA · [MPS (Metal Performance Shaders)](https://developer.apple.com/documentation/metalperformanceshaders) · OpenMP · MPI · Slurm
