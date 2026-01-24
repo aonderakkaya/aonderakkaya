@@ -43,6 +43,8 @@ I am a statistician and data scientist in training, with a broad focus on data s
   </picture>
 </div>
 
+<br />
+
 ---
 
 ### Technical Specifications 🛠️
@@ -103,7 +105,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
       <b>Türkçe (Türk Hukuku Bağlamı):</b><br />
       1. <b>Dürüst Kullanım (Honest Use):</b> Bu profilde yer alan markalar ve logolar, 6769 sayılı Sınai Mülkiyet Kanunu (SMK) Madde 7/5 uyarınca, kişinin sahip olduğu yetkinlikleri açıklamak ve hizmetin niteliğini belirtmek amacıyla, ticari hayatın dürüstlük ilkelerine uygun olarak (referans amaçlı) kullanılmıştır.<br />
       2. <b>İlişkisizlik Beyanı:</b> Önder Akkaya'nın, logoları kullanılan kurumlarla (SAS Institute, Posit, JuliaHub vb.) herhangi bir resmi ticari ortaklığı veya temsilciliği bulunmamaktadır.<br />
-      <i>İlgili marka sahibini temsil ediyorsanız ve herhangi bir hak ihlali iddianız veya çekinceniz varsa, ivedilikle çözüm sağlanması adına lütfen e-posta yoluyla iletişime geçiniz."</i>
+      <i>İlgili marka sahibini temsil ediyorsanız ve herhangi bir hak ihlali iddianız veya çekinceniz varsa, ivedilikle çözüm sağlanması adına lütfen e-posta yoluyla iletişime geçiniz.</i>
       <br />
     </sub>
   </details>
