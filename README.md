@@ -25,11 +25,15 @@ I am a statistician and data scientist in training, with a broad focus on data s
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
-  <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
-  <img src="https://img.shields.io/badge/SAS-002060?style=for-the-badge&logoColor=white" alt="SAS" />
+  <img src="./icons/r.svg" height="50" alt="R" style="margin: 0 12px;" />
+  <img src="./icons/python.svg" height="50" alt="Python" style="margin: 0 12px;" />
+  <img src="./icons/julia.svg" height="50" alt="Julia" style="margin: 0 12px;" />
+  <img src="./icons/quarto.svg" height="50" alt="Quarto" style="margin: 0 12px;" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/sas_white.svg">
+    <img src="./icons/sas_blue.svg" height="50" alt="SAS" style="margin: 0 12px;">
+  </picture>
 </div>
 
 ---
@@ -70,3 +74,29 @@ I am a statistician and data scientist in training, with a broad focus on data s
 **Design🖌️** · Adobe Creative Cloud · Canva
 
 <br />
+
+<br />
+<div align="center">
+  <details>
+    <summary>⚖️ <b>Legal Disclaimer & Trademark Notice / Yasal Uyarı</b> (Click to expand)</summary>
+    <br />
+    <sub style="color: gray; text-align: justify; display: block;">
+      <b>English (International & US Law Context):</b><br />
+      1. <b>Non-Affiliation:</b> Önder Akkaya is not affiliated, associated, authorized, endorsed by, or in any way officially connected with SAS Institute Inc., Posit PBC, JuliaHub Inc., Python Software Foundation, The R Foundation, or any of their subsidiaries or affiliates.<br />
+      2. <b>Nominative Fair Use:</b> The names, logos, and badges used in this repository are for <b>identification, educational, and portfolio purposes only</b>. Their use falls under the doctrine of "Nominative Fair Use" (15 U.S.C. § 1115(b)(4)) to accurately describe the specific technical skills and tools proficiently utilized by the author.<br />
+      3. <b>Trademark Ownership:</b><br />
+      • <b>SAS®:</b> SAS and all other SAS Institute Inc. product or service names are registered trademarks or trademarks of SAS Institute Inc. in the USA and other countries. ® indicates USA registration.<br />
+      • <b>Quarto®:</b> Quarto and the Quarto logo are trademarks of Posit, PBC.<br />
+      • <b>Julia:</b> Julia is a registered trademark of JuliaHub, Inc.<br />
+      • <b>Python:</b> Python is a registered trademark of the Python Software Foundation.<br />
+      • <b>R:</b> R is a registered trademark of The R Foundation for Statistical Computing.<br />
+      4. <b>Good Faith:</b> All assets are used in good faith with no intent to infringe on intellectual property rights or cause consumer confusion regarding the source of goods/services.<br />
+      <br />
+      <b>Türkçe (Türk Hukuku Bağlamı):</b><br />
+      1. <b>Dürüst Kullanım (Honest Use):</b> Bu profilde yer alan markalar ve logolar, 6769 sayılı Sınai Mülkiyet Kanunu (SMK) Madde 7/5 uyarınca, kişinin sahip olduğu yetkinlikleri açıklamak ve hizmetin niteliğini belirtmek amacıyla, ticari hayatın dürüstlük ilkelerine uygun olarak (referans amaçlı) kullanılmıştır.<br />
+      2. <b>İlişkisizlik Beyanı:</b> Önder Akkaya'nın, logoları kullanılan kurumlarla (SAS Institute, Posit, JuliaHub vb.) herhangi bir resmi ticari ortaklığı veya temsilciliği bulunmamaktadır.<br />
+      <br />
+      <i>If you represent a trademark owner and have concerns, please contact via email for immediate resolution.</i>
+    </sub>
+  </details>
+</div>
