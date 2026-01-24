@@ -27,7 +27,7 @@ I am a statistician and data scientist in training, with a broad focus on data s
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
   <img src="https://img.shields.io/badge/SAS-002060?style=for-the-badge&logoColor=white" alt="SAS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/SAS_logo.svg" alt="SAS Logo" width="100" />
+
 </div>
 
 ---
