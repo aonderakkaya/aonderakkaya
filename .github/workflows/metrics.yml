@@ -1,24 +1,22 @@
 name: Metrics
-env:
-  GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
 on:
-  # Her gece 03:00'te çalış
   schedule: [{cron: "0 0 * * *"}]
-  # Elle tetiklemek istersen
   workflow_dispatch:
-  # Repoya bir şey yüklediğinde çalış
   push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    # Robotun kendi izinlerini sınırlayalım ki bizim Token'ı kullansın
     permissions:
       contents: write
+      
     steps:
       # 1. GÖREV: AYDINLIK MOD (Light)
       - name: Light Mode Metrics
         uses: lowlighter/metrics@latest
         with:
+          # Token'ı burada kullanıyoruz
           token: ${{ secrets.METRICS_TOKEN }}
           filename: icons/github-metrics-light.svg
           user: onder-akkaya
