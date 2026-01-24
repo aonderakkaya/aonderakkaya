@@ -18,7 +18,10 @@ I am a statistician and data scientist in training, with a broad focus on data s
 🏃 **Offline:** I'm a runner (PB 2:17 Half-Marathon), have a keen interest in photography ([@onder.chroma](https://instagram.com/onder.chroma)) and arts.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder-akkaya&theme=default" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=onder-akkaya&theme=dark&hide_border=true">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder-akkaya&theme=default">
+  </picture>
 </div>
 
 <div align="center">
@@ -27,7 +30,6 @@ I am a statistician and data scientist in training, with a broad focus on data s
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
   <img src="https://img.shields.io/badge/SAS-002060?style=for-the-badge&logoColor=white" alt="SAS" />
-
 </div>
 
 ---
