@@ -91,12 +91,13 @@ I am a statistician and data scientist in training, with a broad focus on data s
       • <b>Python:</b> Python is a registered trademark of the Python Software Foundation.<br />
       • <b>R:</b> R is a registered trademark of The R Foundation for Statistical Computing.<br />
       4. <b>Good Faith:</b> All assets are used in good faith with no intent to infringe on intellectual property rights or cause consumer confusion regarding the source of goods/services.<br />
+      <i>If you represent a trademark owner and have concerns, please contact via email for immediate resolution.</i>
       <br />
       <b>Türkçe (Türk Hukuku Bağlamı):</b><br />
       1. <b>Dürüst Kullanım (Honest Use):</b> Bu profilde yer alan markalar ve logolar, 6769 sayılı Sınai Mülkiyet Kanunu (SMK) Madde 7/5 uyarınca, kişinin sahip olduğu yetkinlikleri açıklamak ve hizmetin niteliğini belirtmek amacıyla, ticari hayatın dürüstlük ilkelerine uygun olarak (referans amaçlı) kullanılmıştır.<br />
       2. <b>İlişkisizlik Beyanı:</b> Önder Akkaya'nın, logoları kullanılan kurumlarla (SAS Institute, Posit, JuliaHub vb.) herhangi bir resmi ticari ortaklığı veya temsilciliği bulunmamaktadır.<br />
+      <i>İlgili marka sahibini temsil ediyorsanız ve herhangi bir hak ihlali iddianız veya çekinceniz varsa, ivedilikle çözüm sağlanması adına lütfen e-posta yoluyla iletişime geçiniz."</i>
       <br />
-      <i>If you represent a trademark owner and have concerns, please contact via email for immediate resolution.</i>
     </sub>
   </details>
 </div>
