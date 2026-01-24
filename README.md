@@ -24,6 +24,8 @@ I am a statistician and data scientist in training, with a broad focus on data s
   </picture>
 </div>
 
+<br />
+
 <div align="center">
   <img src="./icons/r.svg" height="50" alt="R" />
   &emsp;&emsp; <img src="./icons/python.svg" height="50" alt="Python" />
