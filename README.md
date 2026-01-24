@@ -25,21 +25,21 @@ I am a statistician and data scientist in training, with a broad focus on data s
 </div>
 
 <div align="center">
-  <img src="./icons/r.svg" height="50" alt="R" style="margin: 0 24px;" />
+  <img src="./icons/r.svg" height="50" alt="R" />
+  &emsp;&emsp; <img src="./icons/python.svg" height="50" alt="Python" />
+  &emsp;&emsp;
   
-  <img src="./icons/python.svg" height="50" alt="Python" style="margin: 0 24px;" />
+  <img src="./icons/julia.svg" height="50" alt="Julia" />
+  &emsp;&emsp;
   
-  <img src="./icons/julia.svg" height="50" alt="Julia" style="margin: 0 24px;" />
-  
-  <img src="./icons/quarto.svg" height="50" alt="Quarto" style="margin: 0 24px;" />
+  <img src="./icons/quarto.svg" height="50" alt="Quarto" />
+  &emsp;&emsp;
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./icons/sas_white.svg">
-    <img src="./icons/sas_blue.svg" height="50" alt="SAS" style="margin: 0 24px;">
+    <img src="./icons/sas_blue.svg" height="50" alt="SAS">
   </picture>
 </div>
-
----
 
 ### Technical Specifications 🛠️
 
