@@ -27,32 +27,15 @@ I am a statistician and data scientist in training, with a broad focus on data s
 <br />
 
 <div align="center">
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="./icons/r.svg" height="50" alt="R" />
-  </a>
-  &emsp;&emsp; 
+  <a href="https://www.r-project.org/" target="_blank"><img src="./icons/r.svg" height="50" alt="R" /></a>&emsp;&emsp;
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="./icons/python.svg" height="50" alt="Python" />
-  </a>
-  &emsp;&emsp;
+  <a href="https://www.python.org/" target="_blank"><img src="./icons/python.svg" height="50" alt="Python" /></a>&emsp;&emsp;
   
-  <a href="https://julialang.org/" target="_blank">
-    <img src="./icons/julia.svg" height="50" alt="Julia" />
-  </a>
-  &emsp;&emsp;
+  <a href="https://julialang.org/" target="_blank"><img src="./icons/julia.svg" height="50" alt="Julia" /></a>&emsp;&emsp;
   
-  <a href="https://quarto.org/" target="_blank">
-    <img src="./icons/quarto.svg" height="50" alt="Quarto" />
-  </a>
-  &emsp;&emsp;
+  <a href="https://quarto.org/" target="_blank"><img src="./icons/quarto.svg" height="50" alt="Quarto" /></a>&emsp;&emsp;
 
-  <a href="https://www.sas.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./icons/sas_white.svg">
-      <img src="./icons/sas_blue.svg" height="50" alt="SAS">
-    </picture>
-  </a>
+  <a href="https://www.sas.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sas_white.svg"><img src="./icons/sas_blue.svg" height="50" alt="SAS"></picture></a>
 </div>
 
 <br />
