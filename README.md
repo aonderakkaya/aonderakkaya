@@ -41,6 +41,8 @@ I am a statistician and data scientist in training, with a broad focus on data s
   </picture>
 </div>
 
+---
+
 ### Technical Specifications 🛠️
 
 **Statistics & Data Science📊**
