@@ -19,8 +19,8 @@ I am a statistician and data scientist in training, with a broad focus on data s
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-gold-26.vercel.app/api/top-langs/?username=onder-akkaya&theme=dark&hide_border=true&count_private=true&v=1">
-    <img src="https://github-readme-stats-six-gold-26.vercel.app/api/top-langs/?username=onder-akkaya&theme=default&count_private=true&v=1" alt="Most Used Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-gold-26.vercel.app/api/top-langs/?username=onder-akkaya&theme=dark&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats-six-gold-26.vercel.app/api/top-langs/?username=onder-akkaya&theme=default&count_private=true" alt="Most Used Languages">
   </picture>
 </div>
 
