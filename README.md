@@ -2,7 +2,7 @@
 
 # Önder Akkaya
 
-**Trainee Actuary | BSc. Statistics @ Hacettepe | Volunteer & Member @ Turkish Statistical Association** 
+**President, TİD-Genç | Trainee Actuary | BSc. Statistics, Hacettepe** 
 
 📍Çankaya, Ankara, Türkiye
 
