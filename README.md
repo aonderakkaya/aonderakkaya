@@ -2,7 +2,7 @@
 
 # Önder Akkaya
 
-**Trainee Actuary | BSc. Statistics @ Hacettepe | Volunteer & Member @ Turkish Statistical Association** 
+**President, TİD-Genç | Trainee Actuary | BSc. Statistics, Hacettepe** 
 
 📍Çankaya, Ankara, Türkiye
 
@@ -16,8 +16,6 @@
 I am a statistician and data scientist in training, with a broad focus on data science, data visualization, business intelligence and high-performance computing. Currently working on and looking to collaborate in such projects.
 
 🏃 **Offline:** I'm a runner (PB 2:17 Half-Marathon), have a keen interest in photography ([@onder.chroma](https://instagram.com/onder.chroma)) and arts.
-
-<br />
 
 <div align="center"><a href="https://www.r-project.org/" target="_blank"><img src="./icons/r.svg" height="50" alt="R"/></a>&emsp;&emsp;<a href="https://www.python.org/" target="_blank"><img src="./icons/python.svg" height="50" alt="Python"/></a>&emsp;&emsp;<a href="https://julialang.org/" target="_blank"><img src="./icons/julia.svg" height="50" alt="Julia"/></a>&emsp;&emsp;<a href="https://quarto.org/" target="_blank"><img src="./icons/quarto.svg" height="50" alt="Quarto"/></a>&emsp;&emsp;<a href="https://www.sas.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sas_white.svg"><img src="./icons/sas_blue.svg" height="50" alt="SAS"></picture></a></div>
 
